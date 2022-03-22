@@ -1,1 +1,1 @@
-This is a non-empty file
+Non-empty README file
